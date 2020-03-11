@@ -17,7 +17,7 @@ end
 
 
 email = EmailAddressParser.new("Xaviercarty@gmail.com , PaulSteven@gmail.com")
-puts email.parse
+
 
 
 end
